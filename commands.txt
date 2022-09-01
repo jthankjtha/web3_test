@@ -3,3 +3,11 @@ npm install web3
 
 
 hospital wine innocent social series dirt broken damage deputy fine congress wheel
+
+Tools Used
+Truffle
+Node
+Metamask
+Wavemaker
+Web3
+ReactJS
